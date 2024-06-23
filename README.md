@@ -1,4 +1,4 @@
-# HR Analytics Project README
+# HR Analytics Dashboard
 
 ## Overview
 This project focuses on cleaning, transforming, and analyzing HR data using Power BI to develop a comprehensive HR analytics dashboard. The dashboard provides insights into various HR metrics and key performance indicators (KPIs) to support data-driven decision-making.
@@ -9,12 +9,15 @@ This project focuses on cleaning, transforming, and analyzing HR data using Powe
 - **Data Cleaning**: Removed duplicates and unwanted columns, and filtered rows to ensure data accuracy and relevance.
 - **Data Enhancement**: Added conditional columns, changed data types, and replaced values to maintain data integrity.
 
+### HR Analytics Dashboard
+![HR Analysis](/Hr%20Analysis.png)
+
 ### Dashboard Creation
 - **Comprehensive HR Analytics Dashboard**: Displayed key metrics including:
   - Employee count
   - Average age
   - Attrition rate
-  - Average salary
+  - Average Salary
   - Years at the company
 
 ### KPI Tracking
